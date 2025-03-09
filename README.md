@@ -63,9 +63,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![image](https://github.com/user-attachments/assets/03653f1a-8ff8-4f82-b8f6-e72b64616bd2)
 
-![Uploading image.png…]()
-![Uploading image.png…]()
+
+![image](https://github.com/user-attachments/assets/464f6440-1c44-4f21-9cb4-04c0183f7807)
+
+![image](https://github.com/user-attachments/assets/8b7f4557-937f-4a68-b3cb-037fdf0bc13b)
+
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
